@@ -1,0 +1,10 @@
+ Volume in drive D is New Volume
+ Volume Serial Number is A438-BCDA
+
+ Directory of D:\GIT-Cloud
+
+11/28/2023  10:17 AM    <DIR>          .
+11/28/2023  10:17 AM    <DIR>          ..
+11/28/2023  10:17 AM                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  57,898,582,016 bytes free
